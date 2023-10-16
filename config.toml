@@ -1,0 +1,4 @@
+baseURL = "https://buttonmonkey.co.za/"
+languageCode = "en-us"
+title = "New MVP website"
+theme = "ananke"

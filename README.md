@@ -1,1 +1,0 @@
-# jdfinnovations.com

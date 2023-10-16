@@ -1,4 +1,4 @@
-baseURL = "https://buttonmonkey.co.za/"
+baseURL = "https://gohugo-theme-ananke.pages.dev"
 languageCode = "en-us"
-title = "New MVP website"
-theme = "ananke"
+title = "New Professional website"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]

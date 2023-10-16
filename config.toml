@@ -1,4 +1,4 @@
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "jdfinnovations.com"
 languageCode = "en-us"
 title = "New Professional website"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]

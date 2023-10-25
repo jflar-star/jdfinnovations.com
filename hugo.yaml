@@ -1,0 +1,7 @@
+baseURL: https://jdfinnovations.com
+languageCode: en-us
+title: JDF Innovations
+
+module:
+  imports:
+    - path: github.com/imfing/hextra

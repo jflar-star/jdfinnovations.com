@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: JDF Innovations
 
 # import hextra as module
 module:
@@ -18,8 +18,8 @@ markup:
 
 menu:
   main:
-    - name: Investor Relations
-      pageRef: /investor_relations
+    - name: Swag
+      pageRef: /swag
       weight: 1
     - name: About
       pageRef: /about

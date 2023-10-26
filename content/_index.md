@@ -1,17 +1,18 @@
 ---
-title: My Site
-toc: false
+title: JDF Innovations
+toc: False
 ---
 
-This is the landing page.
+Where dreams really do come true!
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="docs" title="Documentation" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
+  {{< card link="investor_relations" title="Investor Relations" icon="book-open" >}}
 {{< /cards >}}
 
 ## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+For support issues please contact support@jdfinnovations.com
